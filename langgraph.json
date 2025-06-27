@@ -1,0 +1,7 @@
+{
+    "dependencies":["."],
+    "graphs":{
+        "RES-Q_Agent":"./src/graph/graphbuilder.py:graph"
+    },
+    "env":"./.env"
+}
