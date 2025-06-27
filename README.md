@@ -138,7 +138,7 @@ Example output (JSON):
 Clone the repo:
 
 \`\`\`bash
-git clone https://github.com/your-org/btis.git
+git clone [https://github.com/your-org/btis.git](https://github.com/Jeevanmerkaji/ResQ.git)
 cd btis
 \`\`\`
 
@@ -189,4 +189,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Contact
 
-For questions or collaboration inquiries, please open an issue or contact team@your-org.com.
+For questions or collaboration inquiries, please open an issue or contact jeevanms5355@gmail.com.
