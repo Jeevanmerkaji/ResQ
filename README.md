@@ -135,42 +135,42 @@ Example output (JSON):
 
 > Note: This repository requires Python 3.10+.
 
-```bash
-git clone https://github.com/Jeevanmerkaji/ResQ.git
-cd ResQ
-```
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Jeevanmerkaji/ResQ.git
+   cd ResQ
+   ```
+
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 
-Install dependencies:
+## Ollama Setup
 
+Configure the local Ollama LLM instance:
 
-pip install -r requirements.txt
+1. Start the Ollama server (run in a separate terminal or background):
+   ```bash
+   ollama serve
+   ```
 
-
-Configure local Ollama LLM instance:
-
-
-ollama serve
-ollama pull llama3
-
+2. Download the Llama 3 model:
+   ```bash
+   ollama pull llama3
+   ```
 
 ---
 
 ## Usage
 
+### Basic Execution
 Run the workflow with sample data:
-
-\`\`\`bash
+```bash
 python btis_main.py --input data/sample_vitals.json
-\`\`\`
-
-Example command with custom parameters:
-
-\`\`\`bash
-python btis_main.py --soldier_id 12345 --vitals_file vitals.csv --injury_desc "Blast injury"
-\`\`\`
-
-Outputs will be saved as JSON in the outputs/ directory.
 
 ---
 
