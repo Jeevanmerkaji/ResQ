@@ -1,5 +1,7 @@
 # Battlefield Triage Intelligence System (BTIS)
 
+![ResQ Logo](ResQ.png)
+
 AI-Powered Triage & Trauma Care for Frontline Combat Casualties
 
 The Battlefield Triage Intelligence System (BTIS) is an agentic AI workflow designed to automate and accelerate combat casualty assessment. By integrating deep learning, rule-based triage logic, and large language model (LLM) reasoning, BTIS delivers reliable, explainable, and NATO-compliant triage decisions in seconds, even in offline battlefield environments.
