@@ -137,23 +137,23 @@ Example output (JSON):
 
 Clone the repo:
 
-\`\`\`bash
+
 git clone [(https://github.com/Jeevanmerkaji/ResQ.git)]
 cd btis
-\`\`\`
+
 
 Install dependencies:
 
-\`\`\`bash
+
 pip install -r requirements.txt
-\`\`\`
+
 
 Configure local Ollama LLM instance:
 
-\`\`\`bash
+
 ollama serve
 ollama pull llama3
-\`\`\`
+
 
 ---
 
