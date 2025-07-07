@@ -171,20 +171,20 @@ Configure the local Ollama LLM instance:
 Run the workflow with sample data:
 ```bash
 python btis_main.py --input data/sample_vitals.json
+```
 
----
 
 ## License
 
 This project is licensed under the MIT License.
 
----
+
 
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
----
+
 
 ## Contact
 
