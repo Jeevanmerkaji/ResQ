@@ -138,7 +138,7 @@ Example output (JSON):
 Clone the repo:
 
 \`\`\`bash
-git clone [https://github.com/your-org/btis.git](https://github.com/Jeevanmerkaji/ResQ.git)
+git clone [(https://github.com/Jeevanmerkaji/ResQ.git)]
 cd btis
 \`\`\`
 
