@@ -135,11 +135,10 @@ Example output (JSON):
 
 > Note: This repository requires Python 3.10+.
 
-Clone the repo:
-
-
-git clone [(https://github.com/Jeevanmerkaji/ResQ.git)]
-cd btis
+```bash
+git clone https://github.com/Jeevanmerkaji/ResQ.git
+cd ResQ
+```
 
 
 Install dependencies:
