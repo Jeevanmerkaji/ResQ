@@ -1,6 +1,6 @@
 # Battlefield Triage Intelligence System (BTIS)
 
-![ResQ Logo](ResQ.png)
+![ResQ Logo](ResQ.jpeg)
 
 AI-Powered Triage & Trauma Care for Frontline Combat Casualties
 
